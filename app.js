@@ -21,12 +21,3 @@ switch (comando) {
         console.log('El comando no se puede reconocer');
         break;
 }
-
-
-//console.log('la base', argv.base);
-
-/*let arg = process.argv;
-let parametro = arg[2];
-let base = parametro.split('=')[1];
-
-*/
